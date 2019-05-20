@@ -1,7 +1,7 @@
 # HumanMicrobiome
 Human Microbiome wiki https://github.com/MaximilianKohler/HumanMicrobiome/wiki
 
-Testing a [port from Reddit](https://old.reddit.com/r/HumanMicrobiome/wiki/) due to [a variety of problems with Reddit](https://old.reddit.com/r/HumanMicrobiome/comments/bg11hl/meta_anyone_interested_in_moving_the_wiki_and/).
+Testing a [port from Reddit](https://old.reddit.com/r/HumanMicrobiome/wiki/) due to [a variety of problems with Reddit](https://archive.fo/jzTPu). Github wikis seem to have all the necessary & desirable functionality so for now it doesn't seem worth it to create another website just to get a shorter URL. But I'm open to the idea, and open to the idea of moving away from reddit subs. 
 
 [Intro Page](https://github.com/MaximilianKohler/HumanMicrobiome/wiki/Intro). 
 
