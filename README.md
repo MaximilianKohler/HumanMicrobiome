@@ -11,6 +11,7 @@ I've registered 3 domains that can be used to link to this wiki easier:
 
 You can use humanmicrobiome.wiki/FMT to get to the FMT page for example. 
 
+<br>
 
 [Intro Page](https://github.com/MaximilianKohler/HumanMicrobiome/wiki/Intro). 
 
