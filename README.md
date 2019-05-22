@@ -9,7 +9,7 @@ I've registered 3 domains that can be used to link to this wiki easier:
     humanmicrobiome.info
     humanmicrobiome.wiki 
 
-You can use humanmicrobiome.wiki/FMT to get to the FMT page for example. 
+You can use [humanmicrobiome.wiki/FMT](humanmicrobiome.wiki/FMT) to get to the FMT page for example. 
 
 <br>
 
