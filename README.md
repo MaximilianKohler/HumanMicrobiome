@@ -3,6 +3,14 @@ Human Microbiome wiki https://github.com/MaximilianKohler/HumanMicrobiome/wiki
 
 Testing a [port from Reddit](https://old.reddit.com/r/HumanMicrobiome/wiki/) due to [a variety of problems with Reddit](https://archive.fo/jzTPu). Github wikis seem to have all the necessary & desirable functionality so for now it doesn't seem worth it to create another website just to get a shorter URL. But I'm open to the idea, and open to the idea of moving away from reddit subs. 
 
+I've registered 3 domains that can be used to link to this wiki easier:
+humanmicrobiomewiki.com
+humanmicrobiome.info
+humanmicrobiome.wiki 
+
+You can use humanmicrobiome.wiki/FMT to get to the FMT page for example. 
+
+
 [Intro Page](https://github.com/MaximilianKohler/HumanMicrobiome/wiki/Intro). 
 
 
