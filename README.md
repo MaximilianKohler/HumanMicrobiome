@@ -9,7 +9,7 @@ Testing a [port from Reddit](https://old.reddit.com/r/HumanMicrobiome/wiki/) due
     humanmicrobiome.info
     humanmicrobiome.wiki 
 
-You can use [humanmicrobiome.wiki/FMT](http://humanmicrobiome.wiki/FMT) to get to the FMT page for example. 
+You can use [HumanMicrobiome.wiki/FMT](http://humanmicrobiome.wiki/FMT) to get to the FMT page for example. 
 
 <br>
 
