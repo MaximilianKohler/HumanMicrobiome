@@ -10,7 +10,9 @@ You can use [HumanMicrobiome.info/FMT](http://humanmicrobiome.info/FMT) to get t
 
 <br>
 
-[Intro Page](http://HumanMicrobiome.info/Intro). [Home Page](http://HumanMicrobiome.info).
+[Intro Page](http://HumanMicrobiome.info/Intro). 
+
+[Home Page](http://HumanMicrobiome.info).
 
 
 **Related forums**:
