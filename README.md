@@ -23,7 +23,7 @@ https://old.reddit.com/r/fecaltransplant
 
 https://old.reddit.com/r/FMTClinics
 
-https://old.reddit.com/r/FMTDatabase
+https://old.reddit.com/r/Microbioma
 
 
 This website was created with the idea in mind that misinformation is harmful, and that it's important to have easily accessible hubs of up-to-date, accurate information on subjects. There is widespread misinformation about so many topics, including the microbiome, probiotics, diet, etc.. Since I've been following the microbiome literature daily for years I should be able to help stop the spread of misinformation for topics relating to the human microbiome. 
