@@ -1,17 +1,35 @@
-<p>Testing a <a href="https://old.reddit.com/r/HumanMicrobiome/wiki/">port from Reddit</a> due to <a href="https://archive.fo/jzTPu">a variety of problems with Reddit</a>. Github wikis seem to have all the necessary &amp; desirable functionality so for now it doesn&#39;t seem worth it to create another website just to get a shorter URL. But I&#39;m open to the idea, and open to the idea of moving away from reddit subs. </p>
-<p>I&#39;ve registered 2 domains that can be used to link to this wiki easier:</p>
-<pre><code>humanmicrobiome<span class="hljs-selector-class">.info</span>
-humanmicrobiome<span class="hljs-selector-class">.wiki</span> 
-</code></pre><p>You can use <a href="http://humanmicrobiome.info/FMT">HumanMicrobiome.info/FMT</a> to get to the FMT page for example. </p>
-<p><br></p>
-<p><a href="http://HumanMicrobiome.info/Intro">Intro Page</a>. </p>
-<p><a href="http://HumanMicrobiome.info">Home Page</a>.</p>
-<p><strong>Related forums</strong>:</p>
-<p><a href="https://old.reddit.com/r/HumanMicrobiome">https://old.reddit.com/r/HumanMicrobiome</a></p>
-<p><a href="https://old.reddit.com/r/fecaltransplant">https://old.reddit.com/r/fecaltransplant</a></p>
-<p><a href="https://old.reddit.com/r/FMTClinics">https://old.reddit.com/r/FMTClinics</a></p>
-<p>This website was created with the idea in mind that misinformation is harmful, and that it&#39;s important to have easily accessible hubs of up-to-date, accurate information on subjects. There is widespread misinformation about so many topics, including the microbiome, probiotics, diet, etc.. Since I&#39;ve been following the microbiome literature daily for years I should be able to help stop the spread of misinformation for topics relating to the human microbiome. </p>
-<p>If you have criticisms, suggestions, additions, etc., please <a href="https://github.com/MaximilianKohler/HumanMicrobiome/issues">submit them</a>. </p>
-<p>I will try to keep this site accessible for both lay people and professionals. I don&#39;t add every existing study or the wiki would become overbloated and unusable. To see all studies for a given topic you&#39;ll need to do a literature search via pubmed or google scholar. </p>
-<p>Please note that I am a layperson and do not have a deep technical knowledge. Rather, I have <a href="https://medium.com/@MaximilianKohler/a-critical-look-at-the-current-and-longstanding-ethos-of-childbearing-the-repercussions-its-been-6e37f7f7b13f">a broad understanding of human health and development, and the gut microbiome&#39;s impacts on the entire body</a>, with a <a href="https://maximiliankohler.blogspot.com/p/blog-page.html">focus on FMT</a>. And since most doctors and researchers don&#39;t seem to follow the literature closely it seemed like this is a vacant and important niche I could/should fill. If you are interested in collaboration, expanding, moving the site, etc. feel free to let me know. </p>
-<p><a href="https://www.linkedin.com/in/michael-harrop-25487b132/">Me on LinkedIn</a>.</p>
+Testing a [port from Reddit](https://old.reddit.com/r/HumanMicrobiome/wiki/) due to [a variety of problems with Reddit](https://archive.fo/jzTPu). Github wikis seem to have all the necessary & desirable functionality so for now it doesn't seem worth it to create another website just to get a shorter URL. But I'm open to the idea, and open to the idea of moving away from reddit subs. 
+
+I've registered 2 domains that can be used to link to this wiki easier:
+
+    humanmicrobiome.info
+    humanmicrobiome.wiki 
+
+You can use [HumanMicrobiome.info/FMT](http://humanmicrobiome.info/FMT) to get to the FMT page for example. 
+
+<br>
+
+[Intro Page](http://HumanMicrobiome.info/Intro). 
+
+[Home Page](http://HumanMicrobiome.info).
+
+
+**Related forums**:
+
+https://old.reddit.com/r/HumanMicrobiome
+
+https://old.reddit.com/r/fecaltransplant
+
+https://old.reddit.com/r/FMTClinics
+
+
+
+This website was created with the idea in mind that misinformation is harmful, and that it's important to have easily accessible hubs of up-to-date, accurate information on subjects. There is widespread misinformation about so many topics, including the microbiome, probiotics, diet, etc.. Since I've been following the microbiome literature daily for years I should be able to help stop the spread of misinformation for topics relating to the human microbiome. 
+
+If you have criticisms, suggestions, additions, etc., please [submit them](https://github.com/MaximilianKohler/HumanMicrobiome/issues). 
+
+I will try to keep this site accessible for both lay people and professionals. I don't add every existing study or the wiki would become overbloated and unusable. To see all studies for a given topic you'll need to do a literature search via pubmed or google scholar. 
+
+Please note that I am a layperson and do not have a deep technical knowledge. Rather, I have [a broad understanding of human health and development, and the gut microbiome's impacts on the entire body](https://medium.com/@MaximilianKohler/a-critical-look-at-the-current-and-longstanding-ethos-of-childbearing-the-repercussions-its-been-6e37f7f7b13f), with a [focus on FMT](https://maximiliankohler.blogspot.com/p/blog-page.html). And since most doctors and researchers don't seem to follow the literature closely it seemed like this is a vacant and important niche I could/should fill. If you are interested in collaboration, expanding, moving the site, etc. feel free to let me know. 
+
+[Me on LinkedIn](https://www.linkedin.com/in/michael-harrop-25487b132/).
