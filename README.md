@@ -2,11 +2,10 @@
 
 I tested "GitHub Pages", but it seems to require too much technical knowledge to configure well. If someone thinks it's viable to copy over the wiki to GitHub Pages and wants to help set it up let me know. 
 
-I've registered 2 domains that can be used to link to this wiki easier:
+I've registered a domain that can be used to link to this wiki easier:
 
     humanmicrobiome.info
-    humanmicrobiome.wiki 
-
+    
 You can use [HumanMicrobiome.info/FMT](http://humanmicrobiome.info/FMT) to get to the FMT page for example. 
 
 <br>
