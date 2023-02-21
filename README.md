@@ -6,13 +6,14 @@ Static sites can be hosted free on Github Pages or Netlify.
 **Static site generators**:
 
 * Material theme - I like it a lot and it's easy to customize, but the [sidebars collapse too soon](https://github.com/squidfunk/mkdocs-material/discussions/3210#discussioncomment-2342214), and [the search is quite bad](https://github.com/squidfunk/mkdocs-material/discussions/4384#discussioncomment-4877684). 
-* [Read the docs](https://github.com/mkdocs/mkdocs/wiki/MkDocs-Themes) - MkDocs theme. I like it but the sidebar was a little buggy when it was long enough to scroll. 
-* Hugo: I like [Book theme](https://themes.gohugo.io/themes/hugo-book/) but I couldn't get it to work. The sidebars don't collapse too soon, and the search is better. I like the [Linode docs](https://gohugo.io/showcase/linode/) layout, but the search is not that good. And it's not a selectable theme. 
+* [Read the docs](https://www.mkdocs.org/user-guide/choosing-your-theme/#readthedocs) - MkDocs theme. I like it but the sidebar was a little buggy when it was long enough to scroll. 
+* Hugo: [Book theme](https://themes.gohugo.io/themes/hugo-book/) fixes the issues I have with Material theme -- the sidebars don't collapse too soon, and the search is better. But it loses other features and is less customizable _(for novices at least)_ overall; Eg: [the sidebar layout](https://github.com/alex-shpak/hugo-book/issues/446).
+* I like the [Linode docs](https://gohugo.io/showcase/linode/) layout, but the search is not that good. And it's not a selectable theme. 
 * Bookstack - nice but seems to require heavy technical expertise to customize. Also, not static so not free to host. 
-* Next.js: the search isn't that good; can't [find links](https://nextjs.org/docs/advanced-features/measuring-performance#sending-results-to-analytics).
 * Gatsby: ? https://www.gatsbyjs.com/docs/themes/
 * Jekyll: ? https://jekyllrb.com/docs/themes/
-* Eleventy (11ty): simple? https://www.11ty.dev/ 
+* Next.js: the search isn't that good; can't [find links](https://nextjs.org/docs/advanced-features/measuring-performance#sending-results-to-analytics).
+* Eleventy (11ty): simple? https://www.11ty.dev/ - doesn't seem to have a built-in search. Their [docs](https://www.11ty.dev/docs/quicktips/edit-on-github-links/) uses [Pagefind](https://pagefind.app/) which can't find links. 
 
 
 
