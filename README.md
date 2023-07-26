@@ -19,10 +19,11 @@ Static sites can be hosted free on Github Pages or Netlify.
 
 ---
 
-
 This website was created with the idea in mind that misinformation is harmful, and that it's important to have easily accessible hubs of up-to-date, accurate information on subjects. There is widespread misinformation about so many topics, including the microbiome, probiotics, diet, etc.. Since I've been following the microbiome literature daily for many years I should be able to help stop the spread of misinformation for topics relating to the human microbiome. 
 
 If you have criticisms, suggestions, additions, etc., please [submit them](https://github.com/MaximilianKohler/HumanMicrobiome/issues). 
+
+I have also now set up a new **[Human Microbiome forum](https://forum.humanmicrobiome.info/)** https://forum.humanmicrobiome.info/
 
 I will try to keep this site accessible for both lay people and professionals. I don't add every existing study or the wiki would become overbloated and unusable. To see all studies for a given topic you'll need to do a literature search via pubmed or google scholar. 
 
@@ -33,17 +34,6 @@ Please note that I am a layperson and do not have deep technical knowledge. Rath
 
 
 Originally [ported from Reddit](https://web.archive.org/web/20181101093145/https://old.reddit.com/r/HumanMicrobiome/wiki/index) due to [a variety of problems with Reddit](https://archive.fo/jzTPu). Used [a github wiki](https://github.com/MaximilianKohler/HumanMicrobiome/wiki/intro) for a while before moving it here. 
-
-
-
-
-## Related forums:
-
-https://old.reddit.com/r/HumanMicrobiome
-
-https://old.reddit.com/r/fecaltransplant
-
-https://old.reddit.com/r/FMTClinics
 
 
 &#x200B;
