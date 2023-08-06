@@ -1,3 +1,4 @@
+# Human Microbiome Wiki
 
 [This site](http://humanmicrobiome.info/) is currently built on [MkDocs](https://www.mkdocs.org/). It has lots of [themes](https://github.com/mkdocs/mkdocs/wiki/MkDocs-Themes). Currently using [Material theme](https://github.com/squidfunk/mkdocs-material). Let me know if you have other suggestions. 
 
