@@ -2,7 +2,7 @@
 
 [Library of research on the human microbiome](https://humanmicrobiome.info/). Detailing all the ways our microbiomes impact our health, function, and development. Providing answers on how we can maintain or achieve a healthy, eubiotic gut microbiome, and how to prevent and correct dysbiosis. 
 
-I have also now set up a new **[Human Microbiome forum](https://forum.humanmicrobiome.info/)** -- https://forum.humanmicrobiome.info.
+I have also now set up a new **[Human Microbiome Community Forum](https://forum.humanmicrobiome.info/)** -- https://forum.humanmicrobiome.info. Studies, articles, and evidence-based discussion on the human microbiome, its impacts on health & society, and what we can do.
 
 [This site](https://humanmicrobiome.info/) is currently built on [MkDocs](https://www.mkdocs.org/). It has lots of [themes](https://github.com/mkdocs/mkdocs/wiki/MkDocs-Themes). Currently using [Material theme](https://github.com/squidfunk/mkdocs-material). Let me know if you have other suggestions. 
 
