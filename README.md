@@ -1,10 +1,12 @@
 # Human Microbiome Wiki
 
+[Library of research on the human microbiome](https://humanmicrobiome.info/). Detailing all the ways our microbiomes impact our health, function, and development. Providing answers on how we can maintain or achieve a healthy, eubiotic gut microbiome, and how to prevent and correct dysbiosis. 
+
+I have also now set up a new **[Human Microbiome forum](https://forum.humanmicrobiome.info/)** -- https://forum.humanmicrobiome.info.
+
 [This site](https://humanmicrobiome.info/) is currently built on [MkDocs](https://www.mkdocs.org/). It has lots of [themes](https://github.com/mkdocs/mkdocs/wiki/MkDocs-Themes). Currently using [Material theme](https://github.com/squidfunk/mkdocs-material). Let me know if you have other suggestions. 
 
-I have also now set up a new **[Human Microbiome forum](https://forum.humanmicrobiome.info/)** https://forum.humanmicrobiome.info/
-
-Static sites can be hosted free on Github Pages or Netlify. 
+Static sites can be hosted free on Github Pages, Cloudflare pages, or Netlify. 
 
 **Static site generators**:
 
